@@ -1,7 +1,8 @@
-Deadlock Solver
+**Deadlock Solver:**
+
 This Deadlock Solver application is a graphical user interface (GUI) tool built with Python's Tkinter library to help visualize and solve deadlock scenarios using the Banker's Algorithm. The application allows users to input processes, resources, and their respective allocations and maximum requirements. It then calculates whether a safe sequence exists to avoid a deadlock, displaying results accordingly.
 
-Features
+**Features**
 User-Friendly Interface: Intuitive GUI for inputting and managing resources, allocations, and maximum requirements.
 Dynamic Calculation: Supports user-defined numbers of processes and resource types.
 Matrix Display: Shows Allocation, Max Resource, and Need matrices for easy understanding.
